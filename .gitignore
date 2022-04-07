@@ -1,0 +1,11 @@
+# Standard python gitignore
+# ========================================
+
+# Vim swap files
+**.sw[pon]
+
+# Distribution /  packaging
+*.egg-info/
+
+# Tags
+.tags
